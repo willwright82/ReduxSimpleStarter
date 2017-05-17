@@ -1,6 +1,6 @@
 # ReduxYoutube
 
-A React/Redux Youtube client
+A React/Redux YouTube client
 
 ### Wanna try?
 
